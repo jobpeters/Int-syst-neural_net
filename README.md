@@ -1,1 +1,1 @@
-# Int-syst-neural_net
+# Intelligent systems ANN/ML assignment
